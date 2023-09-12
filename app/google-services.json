@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96618752560",
+    "project_id": "diagnalassessmenttest",
+    "storage_bucket": "diagnalassessmenttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96618752560:android:f298f172f78f8f9cec1bf5",
+        "android_client_info": {
+          "package_name": "com.example.diagnalassessmenttest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQ7KUV9a9UVXVRrv7_ltXAsjhvOJvCNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

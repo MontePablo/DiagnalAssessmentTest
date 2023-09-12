@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="col1_300">#171717</color>
+    <color name="transparent">#00452545</color>
+    <color name="highlight">#CAB609</color>
 </resources>
