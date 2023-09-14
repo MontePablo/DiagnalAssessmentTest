@@ -39,6 +39,7 @@ local.properties
 # Android Studio
 .idea/
 .idea
+/.idea/
 /*/.idea/
 /*/*/.idea/
 .idea
